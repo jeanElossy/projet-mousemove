@@ -1,8 +1,6 @@
 :root{
   --color--body: rgb(106, 25, 236);
   --color--container: #f1f1f1;
-  --color--p: #131214b2;
-  --color--title: #141414;
 }
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
